@@ -1,0 +1,10 @@
+@font-face {
+    font-family: New Order;
+    src: url(Heebo-Bold.ttf);
+  }
+  
+  * {
+    font-family: 'New Order';
+    font-size: 18px;
+  }
+
